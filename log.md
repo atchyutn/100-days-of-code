@@ -21,3 +21,9 @@
 **Today's Progress**: I've finished 2 sections of Angular Tutorial in Udemy.
 
 **Thoughts** I'm feeling pretty good! I have to listen twice and thrice for some videos to get practical experince of what tutor had explained.
+
+### Day 2: June 2nd, 2017
+
+**Today's Progress**: Completed section 3rd and 4th section in Udemy Angular tutorial.
+
+**Thoughts** Today am feeling proud of myself as I had implemented the UI of twitter favorite element and Stack overflow voting element in Angluar. This is really encouraing for me to build things that I notice everyday in most popular websites. cheers!
