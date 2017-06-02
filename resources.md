@@ -1,17 +1,16 @@
 # Recommended resources
 
 ## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+1. [Site Point Angular 2 Tutorial](https://www.sitepoint.com/angular-2-tutorial/)
 
 ## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+1. [Personal website](www.atchyutn.com)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
 ## Tools
-1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
+1. [VS code](https://code.visualstudio.com/): A lite weight editor with great functionalities 
 
 ## Books (both coding and non-coding)
 

@@ -6,7 +6,7 @@
 
 
 ## Goal
-* to finish the Free Code Camp **Front End Development Certificate** by the end of the #100DaysOfCode Challenge on May 17th, 2017
+* to finish the Angular course **Angular 2 with TypeScript for Beginners: The Pragnatic Guide** and Build a personal website in Angular by the end of the #100DaysOfCode Challenge on Sep 9th, 2017
 
 ## Contents
 * [Rules](rules.md)
