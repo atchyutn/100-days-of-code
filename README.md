@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challeng on February 6th, 2017.
+# I've joined the #100DaysOfCode Challeng on June 1st, 2017.
 
 <!--## Things I want to learn
 * How to write Javascript in Brackets offline (so I can practice while reading <i>YDKJS</i> and <i>Eloquent Javascript</i>)
