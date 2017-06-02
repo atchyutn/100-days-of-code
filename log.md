@@ -16,7 +16,7 @@
 **Thoughts**: -->
 
 
-### Day 1: February 6th, 2017
+### Day 1: June 1st, 2017
 
 **Today's Progress**: I've finished 2 sections of Angular Tutorial in Udemy.
 
