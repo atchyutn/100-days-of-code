@@ -1,17 +1,17 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I, Joe Previte, will code for at least 30 minutes every day for the next 100 days.*
+### *I, Atchyut Nagabhairava, will code for at least 30 minutes every day for the next 100 days.*
 
 #### Start Date
-February 6th, 2017. 
+June 1st, 2017. 
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on tutorials, projects and other exercises on FreeCodeCamp under the Front End Development Certificate program.
+5. I will work on tutorials, projects and other exercises on Udemy Angular course and build a personal website.
 
 
 ## Ideas to make this challenge more effective
