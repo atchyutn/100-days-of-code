@@ -27,3 +27,9 @@
 **Today's Progress**: Completed section 3rd and 4th section in Udemy Angular tutorial.
 
 **Thoughts** Today am feeling proud of myself as I had implemented the UI of twitter favorite element and Stack overflow voting element in Angluar. This is really encouraing for me to build things that I notice everyday in most popular websites. cheers!
+
+### Day 3: June 3rd, 2017
+
+**Today's Progress**: Worked on the exercise given in Udemy tutorial secition 4 about building a tweets layout.
+
+**Thoughts** Not so surprisingly! My way of implementation was so navie compared to tutor, I had built the layout according to the requirement given and cross checked with the autor solution which is at high standard. But feeling happy for completing the exercise on my own ;)
